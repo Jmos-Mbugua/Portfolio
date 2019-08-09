@@ -1,0 +1,33 @@
+nav {
+    background-color:white;
+    line-height: px;
+    color: black;
+    /* height: 100px; */
+}
+
+nav > ul {
+    /* display: inline; */
+    list-style-type: none;
+    margin-bottom: 0;
+    float: right;
+    padding-right: 20px;
+}
+
+nav>ul>li {
+    display: inline;
+}
+
+nav>ul>li>a {
+    color: black;
+    font-family: cursive;
+    font-size: 18px;
+
+}
+
+.landing {
+    text-align: center;
+    height: 450px;
+    background-color: dimgray;
+    margin-top: -30px;
+}
+
