@@ -1,6 +1,6 @@
 nav {
     background-color:white;
-    line-height: px;
+    /* line-height: px; */
     color: black;
     /* height: 100px; */
 }
@@ -24,10 +24,38 @@ nav>ul>li>a {
 
 }
 
-.landing {
-    text-align: center;
-    height: 450px;
-    background-color: dimgray;
-    margin-top: -30px;
+.intro {
+    height: 500px;
+    
+    opacity: 0.9;
+    text-align: Center;
+    clear: both;
 }
+ 
+.about {
+    /* width: 60%; */
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.page-footer {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
 
