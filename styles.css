@@ -1,11 +1,11 @@
 nav {
-    background-color:white;
+    background-color: white;
     /* line-height: px; */
     color: black;
     /* height: 100px; */
 }
 
-nav > ul {
+nav>ul {
     /* display: inline; */
     list-style-type: none;
     margin-bottom: 0;
@@ -26,7 +26,7 @@ nav>ul>li>a {
 
 .intro {
     height: 550px;
-    background-color:white;
+    background-color: white;
     opacity: 0.9;
     text-align: Center;
     clear: both;
@@ -35,27 +35,44 @@ nav>ul>li>a {
     background-image: url(/images/laptop.jpg);
     background-repeat: no-repeat;
     font-style: italic;
-    
+
 }
 
 .intro img {
-    /* float: left; */
-    /* margin-left: 100px; */
     margin-top: 50px;
     margin-left: 80px;
 }
 
+.intro>p {
+    margin-top: 50px;
 
 
- 
+}
+
+
+
+
 .about {
     width: 100%;
     text-align: center;
-    /* margin-left: 100px; */
-    /* margin-right: 100px; */
-    background-color:#84848d;
+    background-color: #84848d;
     height: 400px;
-    
+
+}
+
+.about>img {
+    margin-left: 100px;
+}
+
+.about>p {
+    width: 70%;
+    justify-content: center;
+    margin-left: 70px;
+}
+
+.about>h2 {
+    margin-left: 200px;
+    margin-top: 50px;
 }
 
 .card-image img {
@@ -69,7 +86,7 @@ nav>ul>li>a {
     /* flex-wrap: wrap; */
 }
 
-.skills> h3 {
+.skills>h3 {
     text-align: center;
 }
 
@@ -79,15 +96,6 @@ nav>ul>li>a {
 
 
 .education {
-    height: 150px;
-    background
+    height: 200px;
+    text-align: center;
 }
-
-
-
-
-
-
-
-
-
