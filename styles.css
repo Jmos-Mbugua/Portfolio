@@ -25,19 +25,41 @@ nav>ul>li>a {
 }
 
 .intro {
-    height: 500px;
-    
+    height: 550px;
+    background-color:white;
     opacity: 0.9;
     text-align: Center;
     clear: both;
+    font-size: 20px;
+    margin-top: 0;
+    background-image: url(/images/laptop.jpg);
+    background-repeat: no-repeat;
+    font-style: italic;
+    
 }
+
+.intro img {
+    /* float: left; */
+    /* margin-left: 100px; */
+    margin-top: 50px;
+    margin-left: 80px;
+}
+
+
+
  
 .about {
-    /* width: 60%; */
+    width: 100%;
     text-align: center;
-    margin-left: 100px;
-    margin-right: 100px;
+    /* margin-left: 100px; */
+    /* margin-right: 100px; */
+    background-color:#84848d;
+    height: 400px;
     
+}
+
+.card-image img {
+    width: 50px;
 }
 
 
