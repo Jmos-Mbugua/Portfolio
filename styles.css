@@ -66,11 +66,21 @@ nav>ul>li>a {
 
 .skills {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
+}
+
+.skills> h3 {
+    text-align: center;
 }
 
 .page-footer {
     background-color: black;
+}
+
+
+.education {
+    height: 150px;
+    background
 }
 
 
