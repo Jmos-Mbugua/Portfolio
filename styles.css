@@ -91,7 +91,8 @@ nav>ul>li>a {
 
 .skills > h3 {
     text-align: center;
-    margin-left;
+    /* color: blue; */
+    padding-left: 500px;
 }
 
 .page-footer {
@@ -102,4 +103,6 @@ nav>ul>li>a {
 .education {
     height: 200px;
     text-align: center;
+    padding-top: 80px;
+    
 }
