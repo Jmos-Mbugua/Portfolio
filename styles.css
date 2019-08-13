@@ -59,7 +59,7 @@ nav>ul>li>a {
     width: 100%;
     text-align: center;
     background-color: #84848d;
-    height: 400px;
+    height: 300px;
 
 }
 
@@ -90,9 +90,8 @@ nav>ul>li>a {
 }
 
 .skills > h3 {
-    text-align: center;
-    /* color: blue; */
-    padding-left: 500px;
+    text-align: center;    
+    padding-left: 50px;
 }
 
 .page-footer {
