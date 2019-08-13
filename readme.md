@@ -14,7 +14,7 @@
 *HTML *CSS *Materialize css *Bootstrap
   
 ## Support and contact details
-{gmail: johnmbugua849gmail.com}
+github profile: Jmos-Mbugua || gmail: johnmbugua849@gmail.com || livelink : https://jmos-mbugua.github.io/Portfolio/
 ### License
 *{}*
 Copyright (c) {2019} **{|moringa School}**
