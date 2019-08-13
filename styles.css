@@ -50,7 +50,7 @@ nav>ul>li>a {
 }
 
 .card-group {
-    margin-top: 50px;
+    /* margin-top: 50px; */
 }
 
 
@@ -58,7 +58,7 @@ nav>ul>li>a {
 .about {
     width: 100%;
     text-align: center;
-    background-color: #84848d;
+    background-color: blue;
     height: 300px;
 
 }
@@ -91,7 +91,7 @@ nav>ul>li>a {
 
 .skills > h3 {
     text-align: center;    
-    padding-left: 50px;
+    padding-left: 500px;
 }
 
 .page-footer {
