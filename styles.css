@@ -1,12 +1,10 @@
 nav {
     background-color: white;
-    /* line-height: px; */
     color: black;
-    /* height: 100px; */
+
 }
 
 nav>ul {
-    /* display: inline; */
     list-style-type: none;
     margin-bottom: 0;
     float: right;
@@ -29,8 +27,7 @@ nav>ul>li>a {
     background-color: white;
     opacity: 0.9;
     text-align: Center;
-    clear: both;
-    font-size: 20px;
+    clear: both;    
     margin-top: 0;
     background-image: url(/images/laptop.jpg);
     background-repeat: no-repeat;
@@ -43,12 +40,18 @@ nav>ul>li>a {
     margin-left: 80px;
 }
 
-.intro>p {
-    margin-top: 50px;
+.intro p:first-child {
+    margin-top: 30px;
+    padding-top: 200px;
+    padding-right: 350px;
+    font-size: 30px;
 
 
 }
 
+.card-group {
+    margin-top: 50px;
+}
 
 
 
@@ -83,11 +86,12 @@ nav>ul>li>a {
 
 .skills {
     display: flex;
-    /* flex-wrap: wrap; */
+
 }
 
-.skills>h3 {
+.skills > h3 {
     text-align: center;
+    margin-left;
 }
 
 .page-footer {
