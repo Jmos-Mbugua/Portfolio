@@ -49,16 +49,12 @@ nav>ul>li>a {
 
 }
 
-.card-group {
-    /* margin-top: 50px; */
-}
-
 
 
 .about {
     width: 100%;
     text-align: center;
-    background-color: blue;
+    background-color: powderblue;
     height: 300px;
 
 }
@@ -108,5 +104,12 @@ nav>ul>li>a {
 
 
 .card-body {
-    background-color: blue;
+    background-color:powderblue;
+}
+
+#projects {    
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 50px;
+    text-align: center;
 }
