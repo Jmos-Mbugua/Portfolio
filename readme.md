@@ -1,12 +1,12 @@
 # {My Portfolio}
-#### {This Portfolio describes who i am and what i do}, {Tuesday 13th Augus}
+#### {This Portfolio describes who i am and what i do}, {Tuesday 13th August}
 #### By **{John Mbugua}**
 ## Description
-{This Portfolio describes who i am as a not just as a programmer, but also outside the programming world. It contains my skills, my education background as well as projects that i have covered before.}
+{This Portfolio describes who i am not just as a programmer, but also outside the programming world. It contains my skills, my education background as well as projects that i have covered before.}
 ##Setup instructions
-*Go to https://github.com/Jmos-Mbugua/Portfolio.git
-*cd Portfolio
-*code .
+-Go to https://github.com/Jmos-Mbugua/Portfolio.git
+-cd Portfolio
+-code .
 
 ## Known Bugs
 {No known bugs }
